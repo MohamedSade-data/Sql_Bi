@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI Bi\\SQL BI\\Day 2\\Lab 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A82396F-C72C-452B-8CC4-C801B874A658}|MultidimensionalProject1\\MultidimensionalProject1.dwproj|E:\\ITI Bi\\SQL BI\\Day 2\\Lab 2\\MultidimensionalProject1\\Sales.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8A82396F-C72C-452B-8CC4-C801B874A658}|MultidimensionalProject1\\MultidimensionalProject1.dwproj|solutionrelative:MultidimensionalProject1\\Sales.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A82396F-C72C-452B-8CC4-C801B874A658}|MultidimensionalProject1\\MultidimensionalProject1.dwproj|E:\\ITI Bi\\SQL BI\\Day 2\\Lab 2\\MultidimensionalProject1\\Sales.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8A82396F-C72C-452B-8CC4-C801B874A658}|MultidimensionalProject1\\MultidimensionalProject1.dwproj|solutionrelative:MultidimensionalProject1\\Sales.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales.dsv [Design]",
+              "DocumentMoniker": "E:\\ITI Bi\\SQL BI\\Day 2\\Lab 2\\MultidimensionalProject1\\Sales.dsv",
+              "RelativeDocumentMoniker": "MultidimensionalProject1\\Sales.dsv",
+              "ToolTip": "E:\\ITI Bi\\SQL BI\\MultidimensionalProject1\\MultidimensionalProject1\\Sales.dsv [Design]",
+              "RelativeToolTip": "..\\..\\MultidimensionalProject1\\MultidimensionalProject1\\Sales.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T16:30:35.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales.cube [Design]",
+              "DocumentMoniker": "E:\\ITI Bi\\SQL BI\\Day 2\\Lab 2\\MultidimensionalProject1\\Sales.cube",
+              "RelativeDocumentMoniker": "MultidimensionalProject1\\Sales.cube",
+              "ToolTip": "E:\\ITI Bi\\SQL BI\\Day 2\\Lab 2\\MultidimensionalProject1\\Sales.cube [Design]",
+              "RelativeToolTip": "MultidimensionalProject1\\Sales.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T11:36:28.541Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
